@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enceladus", "Enceladus\Enceladus.csproj", "{EB7FF1DB-FE18-4119-A405-A44405252DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7FF1DB-FE18-4119-A405-A44405252DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7FF1DB-FE18-4119-A405-A44405252DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7FF1DB-FE18-4119-A405-A44405252DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7FF1DB-FE18-4119-A405-A44405252DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDCB30E1-3BFC-42D7-A3F8-B8758B4591A5}
+	EndGlobalSection
+EndGlobal
